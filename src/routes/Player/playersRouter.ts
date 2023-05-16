@@ -15,4 +15,6 @@ routerPlayer.put(
   controller.updatePlayer
 );
 
+routerPlayer.post("/login", controller.loginAdmin)
+
 export default routerPlayer;

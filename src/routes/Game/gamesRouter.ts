@@ -17,6 +17,8 @@ routerGame.put(
 );
 routerGame.post("/:id/player/:idPlayer/assign", validateUUId, gamesController.addPlayerGame);
 routerGame.post("/:id/scoregoal", validateUUId, gamesController.goalScored);
+routerGame.post("/:id/endgame", validateUUId, gamesController.endgame);
+
 routerGame.get("/doing", gamesController.getActiveGame);
 
 

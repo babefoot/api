@@ -1,5 +1,6 @@
 import { Expose } from "class-transformer";
-import { IsDefined, IsInt, IsOptional, IsString, Matches } from "class-validator";
+import { IsArray, IsDefined, IsInt, IsOptional, IsString, Matches } from "class-validator";
+import Player from "./player.model";
 
 class Game {
 
@@ -52,6 +53,11 @@ class Game {
   @IsInt()
   @Expose()
   order: number;
+
+  @IsOptional()
+  @IsArray()
+  @Expose()
+  players: Player[];
 
   @IsOptional() 
   @IsString()

@@ -3,6 +3,7 @@ import { initDbConnection } from "./db/connect";
 import { initRouters } from "./routes/initRouters";
 import { initLog4js, getLoggers } from "./utils/log4js.init";
 import dotenv from "dotenv";
+import cors from "cors"
 
 dotenv.config();
 
@@ -18,6 +19,7 @@ initDbConnection();
 const app = express();
 const port = process.env.API_PORT || 3000;
 app.use(express.json());
+app.use(cors());
 
 initRouters(app);
 
@@ -25,3 +27,4 @@ app.listen(port, () => {
   loggers.out.info(`API listening at http://localhost:${port}`);
   return loggers.app.info(`API listening at http://localhost:${port}`);
 });
+

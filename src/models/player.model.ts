@@ -34,6 +34,12 @@ class Player {
   @IsString()
   @Expose()
   card_id: number;
+
+  @IsOptional()
+  @IsString()
+  @Expose()
+  team : string;
+
 };
 
 export default Player;

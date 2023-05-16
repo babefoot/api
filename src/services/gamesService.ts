@@ -50,24 +50,37 @@ const addPlayerGame = async (id: string, player: Player): Promise<any> => {
 };
 
 const scoreGoal = async (id: string, team: string): Promise<any> => {
+  console.log("id", id, "team", team);
+  
   let query = "";
   if (team === "r") {
     query =
       "UPDATE game SET score_team_red = score_team_red + 1 WHERE id = $1 RETURNING *";
   }else if (team === "b") {
     query =
-      "UPDATE game SET score_team_red = score_team_blue + 1 WHERE id = $1 RETURNING *";
+      "UPDATE game SET score_team_blue = score_team_blue + 1 WHERE id = $1 RETURNING *";
   }
   const result = await pool.query(query, [id]);  
   return result
 };
 
+
+
 const getActiveGame = async (): Promise<Game> => {
-  const query = "SELECT * FROM game WHERE state LIKE '2'";
+  const query = "SELECT * FROM game INNER JOIN player_games ON game.id = player_games.fk_game INNER JOIN player ON player_games.fk_player = player.id WHERE game.state LIKE '2'";
   const result = await pool.query(query);
-  const game: Game = plainToClass(Game, result.rows[0]);
+  const players = result.rows.map((player) => plainToClass(Player, player, { excludeExtraneousValues: true }));
+  const game = plainToClass(Game, result.rows[0], { excludeExtraneousValues: true });
+  game.players = players;
+  game.id = result.rows[0].fk_game;
   return game;
 }
 
+const endGame = async (id: string): Promise<any> => {
+  const query = "UPDATE game SET state = 1 WHERE id = $1 RETURNING *";
+  const result = await pool.query(query, [id]);
+  return result.rows[0];
+}
 
-export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, scoreGoal, getActiveGame };
+
+export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, scoreGoal, getActiveGame, endGame };

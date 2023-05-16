@@ -12,5 +12,6 @@ export const initRouters = (app: express.Application) => {
   app.use("/players", routerPlayer);
   app.use("/games", routerGame);
 
+
   //Unauthentified routes
 };

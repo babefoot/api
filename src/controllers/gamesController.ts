@@ -94,7 +94,8 @@ const addPlayerGame = (req: Request, res: Response) => {
 const goalScored = (req: Request, res: Response) => {
   const id: string = req.params.id;
   const goal = req.body;
-  playersService.addAGoal(goal.idPlayer)
+  console.log(id, goal);
+  playersService.addAGoal(goal.id_scorer1, goal.id_scorer2)
   .then(response => {
     gameService.scoreGoal(id, goal.team).then((updatedGame: Game) => {
       loggers.app.info("Goal scored successfully %s", updatedGame);
@@ -119,10 +120,31 @@ const goalScored = (req: Request, res: Response) => {
 
 
 const getActiveGame = (req: Request, res: Response) => {
+  console.log("state");
+  
   gameService.getActiveGame().then(game => {
     res.status(statusCode.OK).json(game)
   }).catch(err => {
     res.status(statusCode.NO_CONTENT).json({ "err" : "No active game"})
   })
 }
-export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, goalScored, getActiveGame };
+
+
+const endgame = (req: Request, res: Response) => {
+
+
+  console.log("endgame");
+
+  const id_game = req.params.id;
+  gameService.endGame(id_game).then( success =>
+    res.status(statusCode.OK).json(success)
+  ).catch(err => {
+    res.status(statusCode.BAD_REQUEST).json({"err" : err})
+  }
+  )
+}
+
+
+
+
+export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, goalScored, getActiveGame, endgame };

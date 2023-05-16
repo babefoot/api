@@ -40,14 +40,30 @@ const updatePlayer = async (id: number, player: Player): Promise<any> => {
   return result.rows[0];
 };
 
-const addAGoal = async (id: string): Promise<any> => {
+const addAGoal = async (id_scorer1: string, id_scorer2): Promise<any> => {
+  console.log(id_scorer1);
+  console.log(id_scorer2);
+  
   const query =
-    "UPDATE player SET nb_buts += 1 WHERE id = ? RETURNING *";
+    "UPDATE player SET nb_buts = nb_buts + 1 WHERE id IN ($1, $2) RETURNING *";
   const result = await pool.query(query, [
-    id,
+    id_scorer1,
+    id_scorer2
   ]);
   return result.rows[0];
 };
 
 
-export default { getPlayers, createPlayer, deletePlayer, updatePlayer, addAGoal };
+const login =async (password: string) => {
+
+  const query = "SELECT * FROM ADMIN WHERE password = $1";
+  
+  const result = await pool.query(query, [
+    password,
+  ]);
+
+  return result.rows[0] !== undefined ? true : false;
+}
+
+
+export default { getPlayers, createPlayer, deletePlayer, updatePlayer, addAGoal, login };

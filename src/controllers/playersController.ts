@@ -1,4 +1,5 @@
 import playersService from "../services/playersService";
+import { Request, Response, response } from "express";
 import statusCode from "../utils/statusCode";
 import Player from "../models/player.model";
 import { getLoggers } from "../utils/log4js.init";
@@ -67,4 +68,17 @@ const updatePlayer = (req: any, res: any) => {
     });
 };
 
-export default { getPlayers, createPlayer, deletePlayer, updatePlayer };
+
+const loginAdmin = (req: Request, res: Response) => {
+
+  const password = req.body.password;
+  playersService.login(password).then(ans => res.status(statusCode.OK).send(ans))
+  .catch((err) => {
+    loggers.app.error("Error while login %s", err);
+    res
+      .status(statusCode.BAD_REQUEST)
+      .json({ message: "Error while loign : " + err });
+  });
+}
+
+export default { getPlayers, createPlayer, deletePlayer, updatePlayer, loginAdmin };
