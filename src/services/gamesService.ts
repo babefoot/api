@@ -2,6 +2,7 @@ import { plainToClass } from "class-transformer";
 import { pool } from "../db/connect";
 import Game from "../models/game.model";
 import Player from "../models/player.model";
+import GameDTO from "../DTO/gameDTO";
 
 export const getGames = async (): Promise<any> => {
   const query = "SELECT * FROM game";
@@ -9,14 +10,22 @@ export const getGames = async (): Promise<any> => {
   return result.rows;
 };
 
-const createGame = async (game: Game): Promise<any> => {
-  console.log("game", game.nb_player, game.date);
-  
+const createGame = async (game: GameDTO): Promise<any> => {
+  const nb_player = game.players_team_blue.length + game.players_team_red.length;  
   const query =
-    "INSERT INTO game (nb_player, date) VALUES ($1, $2) RETURNING *";
+    "INSERT INTO game (nb_player, state) VALUES ($1, $2) RETURNING *";
+  const result = await pool.query(query, [nb_player, game.state]);
 
-  const result = await pool.query(query, [game.nb_player, game.date]);
-  console.log("result", result);
+  const game_id = result.rows[0].id;
+  game.players_team_blue.forEach(async (player_id: string) => {
+    const query = "INSERT INTO player_games (fk_player, fk_game, winner, team) VALUES ($1, $2, $3, $4) RETURNING *";
+    await pool.query(query, [player_id, game_id, false, "B"]);
+  });
+  game.players_team_red.forEach(async (player_id: string) => {
+    const query = "INSERT INTO player_games (fk_player, fk_game, winner, team) VALUES ($1, $2, $3, $4) RETURNING *";
+    await pool.query(query, [player_id, game_id, false, "R"]);
+  });
+
   return result.rows[0];
 };
 
@@ -53,10 +62,10 @@ const scoreGoal = async (id: string, team: string): Promise<any> => {
   console.log("id", id, "team", team);
   
   let query = "";
-  if (team === "r") {
+  if (team === "R") {
     query =
       "UPDATE game SET score_team_red = score_team_red + 1 WHERE id = $1 RETURNING *";
-  }else if (team === "b") {
+  }else if (team === "B") {
     query =
       "UPDATE game SET score_team_blue = score_team_blue + 1 WHERE id = $1 RETURNING *";
   }

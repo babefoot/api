@@ -81,4 +81,22 @@ const loginAdmin = (req: Request, res: Response) => {
   });
 }
 
-export default { getPlayers, createPlayer, deletePlayer, updatePlayer, loginAdmin };
+
+const getPlayerByCardId = (req: any, res: any) => {
+  const cardId = req.params.cardId;
+  console.log(cardId);
+  
+  playersService
+    .getPlayerByCardId(cardId)
+    .then((player: Player) => {
+      loggers.app.info(`Player retrieved successfully ${player}`);
+      res.status(statusCode.OK).json(player);
+    })
+    .catch((err) => {
+      loggers.app.error(`Player not retrieved for ${cardId} - err : ${err}}`);
+      res.status(statusCode.BAD_REQUEST)
+        .json({ message: "Error while getting player : " + err });
+    });
+};
+
+export default { getPlayers, createPlayer, deletePlayer, updatePlayer, loginAdmin, getPlayerByCardId };

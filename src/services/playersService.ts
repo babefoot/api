@@ -40,17 +40,13 @@ const updatePlayer = async (id: number, player: Player): Promise<any> => {
   return result.rows[0];
 };
 
-const addAGoal = async (id_scorer1: string, id_scorer2): Promise<any> => {
-  console.log(id_scorer1);
-  console.log(id_scorer2);
+const addAGoal = async (scorers: string[]): Promise<any> => {
   
-  const query =
-    "UPDATE player SET nb_buts = nb_buts + 1 WHERE id IN ($1, $2) RETURNING *";
-  const result = await pool.query(query, [
-    id_scorer1,
-    id_scorer2
-  ]);
-  return result.rows[0];
+  scorers.forEach(async (scorer) => {
+      const query = "UPDATE player SET nb_buts = nb_buts + 1 WHERE id = $1";
+      await pool.query(query, [scorer]);
+    }
+  );
 };
 
 
@@ -66,4 +62,10 @@ const login =async (password: string) => {
 }
 
 
-export default { getPlayers, createPlayer, deletePlayer, updatePlayer, addAGoal, login };
+const getPlayerByCardId = async (card_id: string): Promise<any> => {
+  const query = "SELECT * FROM player WHERE card_id = $1";
+  const result = await pool.query(query, [card_id]);
+  return result.rows[0];
+};
+
+export default { getPlayers, createPlayer, deletePlayer, updatePlayer, addAGoal, login, getPlayerByCardId };

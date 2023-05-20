@@ -4,6 +4,7 @@ import playersService from "../services/playersService";
 import statusCode from "../utils/statusCode";
 import Game from "../models/game.model";
 import { getLoggers } from "../utils/log4js.init";
+import GameDTO from "../DTO/gameDTO";
 
 const loggers = getLoggers();
 
@@ -23,7 +24,7 @@ const getGames = (req: Request, res: Response) => {
 };
 
 const createGame = (req: Request, res: Response) => {
-  const game: Game = res.locals.game;  
+  const game: GameDTO = res.locals.game;  
   gameService
     .createGame(game)
     .then((newGame: Game) => {
@@ -94,8 +95,7 @@ const addPlayerGame = (req: Request, res: Response) => {
 const goalScored = (req: Request, res: Response) => {
   const id: string = req.params.id;
   const goal = req.body;
-  console.log(id, goal);
-  playersService.addAGoal(goal.id_scorer1, goal.id_scorer2)
+  playersService.addAGoal(goal.scorers)
   .then(response => {
     gameService.scoreGoal(id, goal.team).then((updatedGame: Game) => {
       loggers.app.info("Goal scored successfully %s", updatedGame);

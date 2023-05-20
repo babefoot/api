@@ -1304,3 +1304,1428 @@
 [2023-04-29T12:49:13.584] [INFO] app - Connecting to database....
 [2023-04-29T12:49:13.588] [INFO] app - API listening at http://localhost:4000
 [2023-04-29T12:49:13.662] [INFO] app - Connected successfully
+[2023-04-29T15:17:24.808] [INFO] app - Starting application....
+[2023-04-29T15:17:24.811] [INFO] app - Connecting to database....
+[2023-04-29T15:17:24.818] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T15:17:34.813] [ERROR] app - Connection timed out
+[2023-04-29T15:17:55.350] [INFO] app - Starting application....
+[2023-04-29T15:17:55.352] [INFO] app - Connecting to database....
+[2023-04-29T15:17:55.356] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T15:17:55.428] [INFO] app - Connected successfully
+[2023-04-29T15:47:51.014] [INFO] app - Starting application....
+[2023-04-29T15:47:51.016] [INFO] app - Connecting to database....
+[2023-04-29T15:47:51.020] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T15:48:01.018] [ERROR] app - Connection timed out
+[2023-04-29T15:48:14.627] [INFO] app - Starting application....
+[2023-04-29T15:48:14.628] [INFO] app - Connecting to database....
+[2023-04-29T15:48:14.633] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T15:48:14.722] [INFO] app - Connected successfully
+[2023-04-29T16:34:54.491] [INFO] app - Starting application....
+[2023-04-29T16:34:54.492] [INFO] app - Connecting to database....
+[2023-04-29T16:34:54.498] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:34:54.573] [INFO] app - Connected successfully
+[2023-04-29T16:35:17.737] [INFO] app - Starting application....
+[2023-04-29T16:35:17.739] [INFO] app - Connecting to database....
+[2023-04-29T16:35:17.745] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:35:17.821] [INFO] app - Connected successfully
+[2023-04-29T16:36:39.613] [INFO] app - Starting application....
+[2023-04-29T16:36:39.614] [INFO] app - Connecting to database....
+[2023-04-29T16:36:39.620] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:36:39.696] [INFO] app - Connected successfully
+[2023-04-29T16:37:59.143] [INFO] app - Starting application....
+[2023-04-29T16:37:59.145] [INFO] app - Connecting to database....
+[2023-04-29T16:37:59.150] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:37:59.226] [INFO] app - Connected successfully
+[2023-04-29T16:40:52.944] [INFO] app - Starting application....
+[2023-04-29T16:40:52.945] [INFO] app - Connecting to database....
+[2023-04-29T16:40:52.951] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:40:53.025] [INFO] app - Connected successfully
+[2023-04-29T16:50:26.456] [INFO] app - Starting application....
+[2023-04-29T16:50:26.457] [INFO] app - Connecting to database....
+[2023-04-29T16:50:26.463] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:50:26.538] [INFO] app - Connected successfully
+[2023-04-29T16:54:00.137] [INFO] app - Starting application....
+[2023-04-29T16:54:00.139] [INFO] app - Connecting to database....
+[2023-04-29T16:54:00.145] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:54:00.221] [INFO] app - Connected successfully
+[2023-04-29T16:59:54.753] [INFO] app - Starting application....
+[2023-04-29T16:59:54.755] [INFO] app - Connecting to database....
+[2023-04-29T16:59:54.760] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T16:59:54.834] [INFO] app - Connected successfully
+[2023-04-29T17:00:32.914] [INFO] app - Starting application....
+[2023-04-29T17:00:32.915] [INFO] app - Connecting to database....
+[2023-04-29T17:00:32.921] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:00:32.996] [INFO] app - Connected successfully
+[2023-04-29T17:01:05.508] [INFO] app - Starting application....
+[2023-04-29T17:01:05.509] [INFO] app - Connecting to database....
+[2023-04-29T17:01:05.515] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:01:05.591] [INFO] app - Connected successfully
+[2023-04-29T17:01:46.834] [INFO] app - Starting application....
+[2023-04-29T17:01:46.835] [INFO] app - Connecting to database....
+[2023-04-29T17:01:46.842] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:01:46.921] [INFO] app - Connected successfully
+[2023-04-29T17:08:29.138] [INFO] app - Starting application....
+[2023-04-29T17:08:29.140] [INFO] app - Connecting to database....
+[2023-04-29T17:08:29.145] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:08:29.234] [INFO] app - Connected successfully
+[2023-04-29T17:09:10.491] [INFO] app - Starting application....
+[2023-04-29T17:09:10.493] [INFO] app - Connecting to database....
+[2023-04-29T17:09:10.499] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:09:10.576] [INFO] app - Connected successfully
+[2023-04-29T17:12:07.185] [INFO] app - Starting application....
+[2023-04-29T17:12:07.187] [INFO] app - Connecting to database....
+[2023-04-29T17:12:07.193] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:12:07.268] [INFO] app - Connected successfully
+[2023-04-29T17:14:30.510] [INFO] app - Starting application....
+[2023-04-29T17:14:30.511] [INFO] app - Connecting to database....
+[2023-04-29T17:14:30.517] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:14:30.593] [INFO] app - Connected successfully
+[2023-04-29T17:20:13.749] [INFO] app - Starting application....
+[2023-04-29T17:20:13.751] [INFO] app - Connecting to database....
+[2023-04-29T17:20:13.759] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:20:13.836] [INFO] app - Connected successfully
+[2023-04-29T17:20:47.671] [INFO] app - Starting application....
+[2023-04-29T17:20:47.673] [INFO] app - Connecting to database....
+[2023-04-29T17:20:47.679] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:20:47.753] [INFO] app - Connected successfully
+[2023-04-29T17:22:14.210] [INFO] app - Starting application....
+[2023-04-29T17:22:14.212] [INFO] app - Connecting to database....
+[2023-04-29T17:22:14.218] [INFO] app - API listening at http://localhost:4000
+[2023-04-29T17:22:14.310] [INFO] app - Connected successfully
+[2023-05-01T11:43:54.471] [INFO] app - Starting application....
+[2023-05-01T11:43:54.473] [INFO] app - Connecting to database....
+[2023-05-01T11:43:54.477] [INFO] app - API listening at http://localhost:4000
+[2023-05-01T11:43:54.592] [INFO] app - Connected successfully
+[2023-05-07T16:14:21.609] [INFO] app - Starting application....
+[2023-05-07T16:14:21.613] [INFO] app - Connecting to database....
+[2023-05-07T16:14:21.621] [INFO] app - API listening at http://localhost:4000
+[2023-05-07T16:14:21.839] [INFO] app - Connected successfully
+[2023-05-13T15:31:09.960] [INFO] app - Starting application....
+[2023-05-13T15:31:09.962] [INFO] app - Connecting to database....
+[2023-05-13T15:31:09.968] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T15:31:10.052] [INFO] app - Connected successfully
+[2023-05-13T16:29:02.908] [INFO] app - Players retrieved successfully
+[2023-05-13T16:44:50.519] [INFO] app - Starting application....
+[2023-05-13T16:44:50.521] [INFO] app - Connecting to database....
+[2023-05-13T16:44:50.526] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T16:44:50.603] [INFO] app - Connected successfully
+[2023-05-13T16:57:15.288] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:00:09.248] [INFO] app - Starting application....
+[2023-05-13T17:00:09.250] [INFO] app - Connecting to database....
+[2023-05-13T17:00:09.256] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:00:09.332] [INFO] app - Connected successfully
+[2023-05-13T17:00:26.746] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:02:22.643] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:03:18.463] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:04:16.832] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:05:00.229] [INFO] app - Starting application....
+[2023-05-13T17:05:00.231] [INFO] app - Connecting to database....
+[2023-05-13T17:05:00.236] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:05:00.315] [INFO] app - Connected successfully
+[2023-05-13T17:05:17.199] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:06:29.949] [INFO] app - Starting application....
+[2023-05-13T17:06:29.951] [INFO] app - Connecting to database....
+[2023-05-13T17:06:29.957] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:06:30.039] [INFO] app - Connected successfully
+[2023-05-13T17:06:41.731] [ERROR] app - Error while scoring goal error: syntax error at or near "+="
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 91,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '27',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:09:12.700] [INFO] app - Starting application....
+[2023-05-13T17:09:12.701] [INFO] app - Connecting to database....
+[2023-05-13T17:09:12.707] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:09:12.784] [INFO] app - Connected successfully
+[2023-05-13T17:09:48.621] [INFO] app - Starting application....
+[2023-05-13T17:09:48.622] [INFO] app - Connecting to database....
+[2023-05-13T17:09:48.628] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:09:48.706] [INFO] app - Connected successfully
+[2023-05-13T17:10:19.383] [ERROR] app - Error while scoring goal error: syntax error at or near "RETURNING"
+    at Parser.parseErrorMessage (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/juju/Documents/OBJET_CO/api/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9)
+    at Socket.Readable.push (_stream_readable.js:213:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23) {
+  length: 98,
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '54',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1188',
+  routine: 'scanner_yyerror'
+}
+[2023-05-13T17:11:17.310] [INFO] app - Starting application....
+[2023-05-13T17:11:17.312] [INFO] app - Connecting to database....
+[2023-05-13T17:11:17.317] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T17:11:17.470] [INFO] app - Connected successfully
+[2023-05-13T17:11:38.643] [INFO] app - Goal scored successfully Result {
+  command: null,
+  rowCount: null,
+  oid: null,
+  rows: [],
+  fields: [],
+  _parsers: undefined,
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:01:41.443] [INFO] app - Starting application....
+[2023-05-13T19:01:41.445] [INFO] app - Connecting to database....
+[2023-05-13T19:01:41.451] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T19:01:51.449] [ERROR] app - Connection timed out
+[2023-05-13T19:02:04.008] [INFO] app - Starting application....
+[2023-05-13T19:02:04.010] [INFO] app - Connecting to database....
+[2023-05-13T19:02:04.016] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T19:02:04.096] [INFO] app - Connected successfully
+[2023-05-13T19:02:27.433] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:03:45.545] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:05:53.965] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:08:14.623] [INFO] app - Starting application....
+[2023-05-13T19:08:14.625] [INFO] app - Connecting to database....
+[2023-05-13T19:08:14.631] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T19:08:14.720] [INFO] app - Connected successfully
+[2023-05-13T19:08:41.559] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:09:27.060] [INFO] app - Starting application....
+[2023-05-13T19:09:27.062] [INFO] app - Connecting to database....
+[2023-05-13T19:09:27.069] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T19:09:27.149] [INFO] app - Connected successfully
+[2023-05-13T19:09:43.769] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:14:07.258] [INFO] app - Starting application....
+[2023-05-13T19:14:07.260] [INFO] app - Connecting to database....
+[2023-05-13T19:14:07.265] [INFO] app - API listening at http://localhost:4000
+[2023-05-13T19:14:07.347] [INFO] app - Connected successfully
+[2023-05-13T19:15:13.673] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:16:44.814] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:17:57.058] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:22:26.129] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:23:12.912] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:37:34.073] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:44:35.359] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:45:43.418] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:46:38.579] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:48:17.385] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:49:40.338] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-13T19:52:35.596] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:37:15.757] [INFO] app - Starting application....
+[2023-05-14T11:37:15.758] [INFO] app - Connecting to database....
+[2023-05-14T11:37:15.764] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T11:37:25.762] [ERROR] app - Connection timed out
+[2023-05-14T11:37:32.820] [INFO] app - Starting application....
+[2023-05-14T11:37:32.821] [INFO] app - Connecting to database....
+[2023-05-14T11:37:32.827] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T11:37:32.905] [INFO] app - Connected successfully
+[2023-05-14T11:37:54.660] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:40:08.251] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:43:55.219] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:44:58.203] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:47:46.429] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T11:48:34.028] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T13:47:42.157] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T14:33:09.709] [INFO] app - Starting application....
+[2023-05-14T14:33:09.710] [INFO] app - Connecting to database....
+[2023-05-14T14:33:09.716] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T14:33:10.033] [INFO] app - Connected successfully
+[2023-05-14T14:33:54.341] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T15:18:47.325] [INFO] app - Starting application....
+[2023-05-14T15:18:47.327] [INFO] app - Connecting to database....
+[2023-05-14T15:18:47.334] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:18:47.564] [INFO] app - Connected successfully
+[2023-05-14T15:23:49.773] [INFO] app - Starting application....
+[2023-05-14T15:23:49.774] [INFO] app - Connecting to database....
+[2023-05-14T15:23:49.781] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:23:50.624] [INFO] app - Connected successfully
+[2023-05-14T15:26:03.204] [INFO] app - Starting application....
+[2023-05-14T15:26:03.206] [INFO] app - Connecting to database....
+[2023-05-14T15:26:03.214] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:26:03.456] [INFO] app - Connected successfully
+[2023-05-14T15:27:07.124] [INFO] app - Starting application....
+[2023-05-14T15:27:07.125] [INFO] app - Connecting to database....
+[2023-05-14T15:27:07.132] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:27:07.438] [INFO] app - Connected successfully
+[2023-05-14T15:29:28.240] [INFO] app - Starting application....
+[2023-05-14T15:29:28.242] [INFO] app - Connecting to database....
+[2023-05-14T15:29:28.248] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:29:28.502] [INFO] app - Connected successfully
+[2023-05-14T15:33:59.449] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T15:37:03.147] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T15:40:20.335] [INFO] app - Starting application....
+[2023-05-14T15:40:20.336] [INFO] app - Connecting to database....
+[2023-05-14T15:40:20.342] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:40:21.187] [INFO] app - Connected successfully
+[2023-05-14T15:40:53.792] [INFO] app - Starting application....
+[2023-05-14T15:40:53.794] [INFO] app - Connecting to database....
+[2023-05-14T15:40:53.801] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:41:03.252] [INFO] app - Starting application....
+[2023-05-14T15:41:03.253] [INFO] app - Connecting to database....
+[2023-05-14T15:41:03.259] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T15:41:03.537] [INFO] app - Connected successfully
+[2023-05-14T16:00:19.753] [INFO] app - Starting application....
+[2023-05-14T16:00:19.754] [INFO] app - Connecting to database....
+[2023-05-14T16:00:19.759] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T16:00:29.756] [ERROR] app - Connection timed out
+[2023-05-14T16:01:42.931] [INFO] app - Starting application....
+[2023-05-14T16:01:42.932] [INFO] app - Connecting to database....
+[2023-05-14T16:01:42.938] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T16:01:43.429] [INFO] app - Connected successfully
+[2023-05-14T16:07:30.567] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T16:08:08.164] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-14T16:10:52.400] [INFO] app - Starting application....
+[2023-05-14T16:10:52.401] [INFO] app - Connecting to database....
+[2023-05-14T16:10:52.406] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T16:10:52.648] [INFO] app - Connected successfully
+[2023-05-14T16:14:06.417] [INFO] app - Starting application....
+[2023-05-14T16:14:06.419] [INFO] app - Connecting to database....
+[2023-05-14T16:14:06.425] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T16:14:06.991] [INFO] app - Connected successfully
+[2023-05-14T16:15:26.793] [INFO] app - Starting application....
+[2023-05-14T16:15:26.795] [INFO] app - Connecting to database....
+[2023-05-14T16:15:26.801] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T16:15:27.060] [INFO] app - Connected successfully
+[2023-05-14T17:22:34.214] [INFO] app - Starting application....
+[2023-05-14T17:22:34.215] [INFO] app - Connecting to database....
+[2023-05-14T17:22:34.221] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T17:22:34.470] [INFO] app - Connected successfully
+[2023-05-14T17:24:59.784] [INFO] app - Starting application....
+[2023-05-14T17:24:59.786] [INFO] app - Connecting to database....
+[2023-05-14T17:24:59.792] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T17:25:00.037] [INFO] app - Connected successfully
+[2023-05-14T17:25:33.768] [INFO] app - Starting application....
+[2023-05-14T17:25:33.770] [INFO] app - Connecting to database....
+[2023-05-14T17:25:33.775] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T17:25:34.044] [INFO] app - Connected successfully
+[2023-05-14T17:29:54.737] [INFO] app - Starting application....
+[2023-05-14T17:29:54.738] [INFO] app - Connecting to database....
+[2023-05-14T17:29:54.747] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T17:29:54.989] [INFO] app - Connected successfully
+[2023-05-14T17:45:04.653] [INFO] app - Starting application....
+[2023-05-14T17:45:04.655] [INFO] app - Connecting to database....
+[2023-05-14T17:45:04.661] [INFO] app - API listening at http://localhost:4000
+[2023-05-14T17:45:04.894] [INFO] app - Connected successfully
+[2023-05-18T14:58:07.375] [INFO] app - Starting application....
+[2023-05-18T14:58:07.376] [INFO] app - Connecting to database....
+[2023-05-18T14:58:07.384] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T14:58:07.492] [INFO] app - Connected successfully
+[2023-05-18T15:04:55.105] [ERROR] app - Error while getting game Game {
+  query: '\n' +
+    '    query IntrospectionQuery {\n' +
+    '      __schema {\n' +
+    '        \n' +
+    '        queryType { name }\n' +
+    '        mutationType { name }\n' +
+    '        subscriptionType { name }\n' +
+    '        types {\n' +
+    '          ...FullType\n' +
+    '        }\n' +
+    '        directives {\n' +
+    '          name\n' +
+    '          description\n' +
+    '          \n' +
+    '          locations\n' +
+    '          args {\n' +
+    '            ...InputValue\n' +
+    '          }\n' +
+    '        }\n' +
+    '      }\n' +
+    '    }\n' +
+    '\n' +
+    '    fragment FullType on __Type {\n' +
+    '      kind\n' +
+    '      name\n' +
+    '      description\n' +
+    '      \n' +
+    '      fields(includeDeprecated: true) {\n' +
+    '        name\n' +
+    '        description\n' +
+    '        args {\n' +
+    '          ...InputValue\n' +
+    '        }\n' +
+    '        type {\n' +
+    '          ...TypeRef\n' +
+    '        }\n' +
+    '        isDeprecated\n' +
+    '        deprecationReason\n' +
+    '      }\n' +
+    '      inputFields {\n' +
+    '        ...InputValue\n' +
+    '      }\n' +
+    '      interfaces {\n' +
+    '        ...TypeRef\n' +
+    '      }\n' +
+    '      enumValues(includeDeprecated: true) {\n' +
+    '        name\n' +
+    '        description\n' +
+    '        isDeprecated\n' +
+    '        deprecationReason\n' +
+    '      }\n' +
+    '      possibleTypes {\n' +
+    '        ...TypeRef\n' +
+    '      }\n' +
+    '    }\n' +
+    '\n' +
+    '    fragment InputValue on __InputValue {\n' +
+    '      name\n' +
+    '      description\n' +
+    '      type { ...TypeRef }\n' +
+    '      defaultValue\n' +
+    '      \n' +
+    '      \n' +
+    '    }\n' +
+    '\n' +
+    '    fragment TypeRef on __Type {\n' +
+    '      kind\n' +
+    '      name\n' +
+    '      ofType {\n' +
+    '        kind\n' +
+    '        name\n' +
+    '        ofType {\n' +
+    '          kind\n' +
+    '          name\n' +
+    '          ofType {\n' +
+    '            kind\n' +
+    '            name\n' +
+    '            ofType {\n' +
+    '              kind\n' +
+    '              name\n' +
+    '              ofType {\n' +
+    '                kind\n' +
+    '                name\n' +
+    '                ofType {\n' +
+    '                  kind\n' +
+    '                  name\n' +
+    '                  ofType {\n' +
+    '                    kind\n' +
+    '                    name\n' +
+    '                  }\n' +
+    '                }\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        }\n' +
+    '      }\n' +
+    '    }\n' +
+    '  '
+}
+[2023-05-18T15:04:55.129] [ERROR] app - Error while getting game Game {
+  query: '\n' +
+    '    query IntrospectionQuery {\n' +
+    '      __schema {\n' +
+    '        \n' +
+    '        queryType { name }\n' +
+    '        mutationType { name }\n' +
+    '        subscriptionType { name }\n' +
+    '        types {\n' +
+    '          ...FullType\n' +
+    '        }\n' +
+    '        directives {\n' +
+    '          name\n' +
+    '          description\n' +
+    '          \n' +
+    '          locations\n' +
+    '          args {\n' +
+    '            ...InputValue\n' +
+    '          }\n' +
+    '        }\n' +
+    '      }\n' +
+    '    }\n' +
+    '\n' +
+    '    fragment FullType on __Type {\n' +
+    '      kind\n' +
+    '      name\n' +
+    '      description\n' +
+    '      \n' +
+    '      fields(includeDeprecated: true) {\n' +
+    '        name\n' +
+    '        description\n' +
+    '        args {\n' +
+    '          ...InputValue\n' +
+    '        }\n' +
+    '        type {\n' +
+    '          ...TypeRef\n' +
+    '        }\n' +
+    '        isDeprecated\n' +
+    '        deprecationReason\n' +
+    '      }\n' +
+    '      inputFields {\n' +
+    '        ...InputValue\n' +
+    '      }\n' +
+    '      interfaces {\n' +
+    '        ...TypeRef\n' +
+    '      }\n' +
+    '      enumValues(includeDeprecated: true) {\n' +
+    '        name\n' +
+    '        description\n' +
+    '        isDeprecated\n' +
+    '        deprecationReason\n' +
+    '      }\n' +
+    '      possibleTypes {\n' +
+    '        ...TypeRef\n' +
+    '      }\n' +
+    '    }\n' +
+    '\n' +
+    '    fragment InputValue on __InputValue {\n' +
+    '      name\n' +
+    '      description\n' +
+    '      type { ...TypeRef }\n' +
+    '      defaultValue\n' +
+    '      \n' +
+    '      \n' +
+    '    }\n' +
+    '\n' +
+    '    fragment TypeRef on __Type {\n' +
+    '      kind\n' +
+    '      name\n' +
+    '      ofType {\n' +
+    '        kind\n' +
+    '        name\n' +
+    '        ofType {\n' +
+    '          kind\n' +
+    '          name\n' +
+    '          ofType {\n' +
+    '            kind\n' +
+    '            name\n' +
+    '            ofType {\n' +
+    '              kind\n' +
+    '              name\n' +
+    '              ofType {\n' +
+    '                kind\n' +
+    '                name\n' +
+    '                ofType {\n' +
+    '                  kind\n' +
+    '                  name\n' +
+    '                  ofType {\n' +
+    '                    kind\n' +
+    '                    name\n' +
+    '                  }\n' +
+    '                }\n' +
+    '              }\n' +
+    '            }\n' +
+    '          }\n' +
+    '        }\n' +
+    '      }\n' +
+    '    }\n' +
+    '  '
+}
+[2023-05-18T15:07:04.094] [INFO] app - Starting application....
+[2023-05-18T15:07:04.095] [INFO] app - Connecting to database....
+[2023-05-18T15:07:04.103] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:07:04.219] [INFO] app - Connected successfully
+[2023-05-18T15:13:54.925] [INFO] app - Starting application....
+[2023-05-18T15:13:54.926] [INFO] app - Connecting to database....
+[2023-05-18T15:13:54.934] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:13:55.054] [INFO] app - Connected successfully
+[2023-05-18T15:14:28.515] [ERROR] app - Game not created for [object Object] - err : error: INSERT has more expressions than target columns
+[2023-05-18T15:14:45.581] [INFO] app - Starting application....
+[2023-05-18T15:14:45.582] [INFO] app - Connecting to database....
+[2023-05-18T15:14:45.590] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:14:45.711] [INFO] app - Connected successfully
+[2023-05-18T15:14:47.272] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:16:20.403] [INFO] app - Starting application....
+[2023-05-18T15:16:20.405] [INFO] app - Connecting to database....
+[2023-05-18T15:16:20.416] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:16:20.517] [INFO] app - Connected successfully
+[2023-05-18T15:16:31.689] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:16:54.411] [INFO] app - Starting application....
+[2023-05-18T15:16:54.412] [INFO] app - Connecting to database....
+[2023-05-18T15:16:54.420] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:16:54.539] [INFO] app - Connected successfully
+[2023-05-18T15:16:56.504] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:17:36.135] [INFO] app - Starting application....
+[2023-05-18T15:17:36.136] [INFO] app - Connecting to database....
+[2023-05-18T15:17:36.145] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:17:36.261] [INFO] app - Connected successfully
+[2023-05-18T15:17:46.578] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:18:30.237] [INFO] app - Starting application....
+[2023-05-18T15:18:30.238] [INFO] app - Connecting to database....
+[2023-05-18T15:18:30.244] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:18:30.353] [INFO] app - Connected successfully
+[2023-05-18T15:18:43.618] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:19:14.115] [INFO] app - Starting application....
+[2023-05-18T15:19:14.116] [INFO] app - Connecting to database....
+[2023-05-18T15:19:14.127] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:19:14.233] [INFO] app - Connected successfully
+[2023-05-18T15:19:17.531] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:29:05.553] [INFO] app - Goal scored successfully Result {
+  command: null,
+  rowCount: null,
+  oid: null,
+  rows: [],
+  fields: [],
+  _parsers: undefined,
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:30:33.058] [INFO] app - Goal scored successfully Result {
+  command: null,
+  rowCount: null,
+  oid: null,
+  rows: [],
+  fields: [],
+  _parsers: undefined,
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:30:51.664] [INFO] app - Starting application....
+[2023-05-18T15:30:51.665] [INFO] app - Connecting to database....
+[2023-05-18T15:30:51.673] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T15:30:51.794] [INFO] app - Connected successfully
+[2023-05-18T15:30:55.306] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:31:16.444] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:41:29.696] [INFO] app - Game created successfully [object Object]
+[2023-05-18T15:42:18.399] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:42:53.254] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:51:05.591] [ERROR] app - Error while scoring goal TypeError: Cannot read properties of undefined (reading 'forEach')
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:49:13
+    at Generator.next (<anonymous>)
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:4:12)
+    at Object.addAGoal (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:48:31)
+    at goalScored (/home/juju/Documents/OBJET_CO/api/dist/controllers/gamesController.js:90:30)
+    at Layer.handle [as handle_request] (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/route.js:144:13)
+    at validateUUId (/home/juju/Documents/OBJET_CO/api/dist/middlewares/validateUUId.js:21:5)
+[2023-05-18T15:54:42.868] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:56:09.829] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T15:58:29.061] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T16:03:33.914] [INFO] app - Starting application....
+[2023-05-18T16:03:33.916] [INFO] app - Connecting to database....
+[2023-05-18T16:03:33.923] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T16:03:34.045] [INFO] app - Connected successfully
+[2023-05-18T16:32:43.542] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-18T17:25:25.677] [INFO] app - Starting application....
+[2023-05-18T17:25:25.679] [INFO] app - Connecting to database....
+[2023-05-18T17:25:25.688] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T17:25:35.683] [ERROR] app - Connection timed out
+[2023-05-18T17:37:14.047] [INFO] app - Starting application....
+[2023-05-18T17:37:14.048] [INFO] app - Connecting to database....
+[2023-05-18T17:37:14.054] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T17:37:14.170] [INFO] app - Connected successfully
+[2023-05-18T18:55:44.477] [INFO] app - Starting application....
+[2023-05-18T18:55:44.478] [INFO] app - Connecting to database....
+[2023-05-18T18:55:44.484] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T18:55:44.593] [INFO] app - Connected successfully
+[2023-05-18T19:01:15.306] [INFO] app - Players retrieved successfully
+[2023-05-18T19:04:26.052] [INFO] app - Starting application....
+[2023-05-18T19:04:26.053] [INFO] app - Connecting to database....
+[2023-05-18T19:04:26.058] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:04:26.172] [INFO] app - Connected successfully
+[2023-05-18T19:05:37.696] [INFO] app - Players retrieved successfully
+[2023-05-18T19:05:56.910] [INFO] app - Starting application....
+[2023-05-18T19:05:56.911] [INFO] app - Connecting to database....
+[2023-05-18T19:05:56.916] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:05:57.033] [INFO] app - Connected successfully
+[2023-05-18T19:05:58.395] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:06:30.341] [INFO] app - Starting application....
+[2023-05-18T19:06:30.342] [INFO] app - Connecting to database....
+[2023-05-18T19:06:30.349] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:06:30.455] [INFO] app - Connected successfully
+[2023-05-18T19:06:32.042] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:06:45.427] [INFO] app - Starting application....
+[2023-05-18T19:06:45.428] [INFO] app - Connecting to database....
+[2023-05-18T19:06:45.433] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:06:45.539] [INFO] app - Connected successfully
+[2023-05-18T19:06:47.175] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:06:58.898] [INFO] app - Starting application....
+[2023-05-18T19:06:58.899] [INFO] app - Connecting to database....
+[2023-05-18T19:06:58.905] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:06:59.019] [INFO] app - Connected successfully
+[2023-05-18T19:07:00.500] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:07:13.784] [INFO] app - Starting application....
+[2023-05-18T19:07:13.785] [INFO] app - Connecting to database....
+[2023-05-18T19:07:13.791] [INFO] app - API listening at http://localhost:4000
+[2023-05-18T19:07:13.908] [INFO] app - Connected successfully
+[2023-05-18T19:07:14.421] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:07:30.615] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-18T19:09:48.156] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:10:13.411] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:10:36.772] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:11:00.273] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:11:15.092] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:11:26.394] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-18T19:11:35.941] [INFO] app - Player retrieved successfully undefined
+[2023-05-18T19:11:53.554] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-18T19:32:09.178] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:26:06.608] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:27:56.354] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:29:46.632] [INFO] app - Player retrieved successfully undefined
+[2023-05-19T16:30:12.082] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:30:26.435] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:32:50.095] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:33:30.463] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:33:51.420] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:43:36.891] [INFO] app - Starting application....
+[2023-05-19T16:43:36.892] [INFO] app - Connecting to database....
+[2023-05-19T16:43:36.897] [INFO] app - API listening at http://localhost:4000
+[2023-05-19T16:43:37.013] [INFO] app - Connected successfully
+[2023-05-19T16:44:09.295] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:44:45.809] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:45:51.379] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:46:22.615] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:46:42.459] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:46:50.531] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:51:18.833] [INFO] app - Starting application....
+[2023-05-19T16:51:18.834] [INFO] app - Connecting to database....
+[2023-05-19T16:51:18.839] [INFO] app - API listening at http://localhost:4000
+[2023-05-19T16:51:18.970] [INFO] app - Connected successfully
+[2023-05-19T16:51:42.844] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:51:55.745] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:52:38.872] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T16:52:46.082] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:05:17.893] [INFO] app - Starting application....
+[2023-05-19T17:05:17.894] [INFO] app - Connecting to database....
+[2023-05-19T17:05:17.900] [INFO] app - API listening at http://localhost:4000
+[2023-05-19T17:05:18.014] [INFO] app - Connected successfully
+[2023-05-19T17:07:27.019] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:07:41.734] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:07:44.189] [INFO] app - Game created successfully [object Object]
+[2023-05-19T17:13:47.448] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:14:01.324] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:14:08.165] [INFO] app - Game created successfully [object Object]
+[2023-05-19T17:22:16.072] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:22:23.481] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:22:45.997] [INFO] app - Game created successfully [object Object]
+[2023-05-19T17:23:32.336] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T17:26:41.351] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:26:48.399] [INFO] app - Player retrieved successfully [object Object]
+[2023-05-19T17:26:52.345] [INFO] app - Game created successfully [object Object]
+[2023-05-19T17:27:57.181] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T18:02:19.241] [ERROR] app - Error while scoring goal TypeError: Cannot read properties of undefined (reading 'forEach')
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:49:13
+    at Generator.next (<anonymous>)
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:4:12)
+    at Object.addAGoal (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:48:31)
+    at goalScored (/home/juju/Documents/OBJET_CO/api/dist/controllers/gamesController.js:90:30)
+    at Layer.handle [as handle_request] (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/route.js:144:13)
+    at validateUUId (/home/juju/Documents/OBJET_CO/api/dist/middlewares/validateUUId.js:21:5)
+[2023-05-19T18:03:17.123] [INFO] app - Starting application....
+[2023-05-19T18:03:17.125] [INFO] app - Connecting to database....
+[2023-05-19T18:03:17.130] [INFO] app - API listening at http://localhost:4000
+[2023-05-19T18:03:17.240] [INFO] app - Connected successfully
+[2023-05-19T19:06:01.677] [ERROR] app - Error while scoring goal TypeError: Cannot read properties of undefined (reading 'forEach')
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:49:13
+    at Generator.next (<anonymous>)
+    at /home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:4:12)
+    at Object.addAGoal (/home/juju/Documents/OBJET_CO/api/dist/services/playersService.js:48:31)
+    at goalScored (/home/juju/Documents/OBJET_CO/api/dist/controllers/gamesController.js:90:30)
+    at Layer.handle [as handle_request] (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/juju/Documents/OBJET_CO/api/node_modules/express/lib/router/route.js:144:13)
+    at validateUUId (/home/juju/Documents/OBJET_CO/api/dist/middlewares/validateUUId.js:21:5)
+[2023-05-19T19:07:47.971] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:08:18.723] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:20:32.841] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:36:09.650] [INFO] app - Player retrieved successfully undefined
+[2023-05-19T19:36:43.770] [INFO] app - Player retrieved successfully undefined
+[2023-05-19T19:37:17.258] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:41:07.122] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:41:11.729] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T19:41:15.999] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T20:15:28.183] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T20:15:41.407] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T20:16:06.576] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
+[2023-05-19T20:16:27.776] [INFO] app - Goal scored successfully Result {
+  command: 'UPDATE',
+  rowCount: 1,
+  oid: null,
+  rows: [Array],
+  fields: [Array],
+  _parsers: [Array],
+  _types: [TypeOverrides],
+  RowCtor: null,
+  rowAsArray: false
+}
