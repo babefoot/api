@@ -19,4 +19,5 @@ routerPlayer.post("/login", controller.loginAdmin)
 routerPlayer.get("/card/:cardId", controller.getPlayerByCardId)
 
 
+
 export default routerPlayer;

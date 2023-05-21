@@ -20,6 +20,8 @@ routerGame.post("/:id/scoregoal", validateUUId, gamesController.goalScored);
 routerGame.post("/:id/endgame", validateUUId, gamesController.endgame);
 
 routerGame.get("/doing", gamesController.getActiveGame);
+routerGame.get("/win", gamesController.winGame);
+
 
 
 

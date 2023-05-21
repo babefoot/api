@@ -26,7 +26,10 @@ const createGame = async (game: GameDTO): Promise<any> => {
     await pool.query(query, [player_id, game_id, false, "R"]);
   });
 
-  return result.rows[0];
+  //sleep 1s
+  await new Promise((resolve) => setTimeout(resolve, 1000));
+  const gameActive = await getActiveGame();
+  return gameActive;
 };
 
 const deleteGame = async (id: string): Promise<any> => {
@@ -92,4 +95,18 @@ const endGame = async (id: string): Promise<any> => {
 }
 
 
-export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, scoreGoal, getActiveGame, endGame };
+const addWinToPlayer = async (player_id: string[]): Promise<any> => {
+  let query = "UPDATE player SET nb_matchs_won = nb_matchs_won + 1 WHERE id IN (";
+  player_id.forEach((id, index) => {
+    query += "'" + id + "',";
+  })
+  query = query.slice(0, -1);
+  query += ") RETURNING *";
+  
+  const result = await pool.query(query);
+  return result.rows[0];
+
+}
+
+
+export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, scoreGoal, getActiveGame, endGame, addWinToPlayer};

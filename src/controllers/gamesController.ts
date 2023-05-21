@@ -144,7 +144,20 @@ const endgame = (req: Request, res: Response) => {
   )
 }
 
+const winGame = (req: Request, res: Response) => {
+
+  const id_player = req.body.id_players;
+
+  gameService.addWinToPlayer( id_player).then( success =>
+    res.status(statusCode.OK).json(success)
+  ).catch(err => {
+    console.log(err);
+    
+    res.status(statusCode.BAD_REQUEST).json({"err" : err})
+  }
+  )
+}
 
 
 
-export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, goalScored, getActiveGame, endgame };
+export default { getGames, createGame, deleteGame, updateGame, addPlayerGame, goalScored, getActiveGame, endgame, winGame };
